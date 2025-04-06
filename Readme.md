@@ -31,7 +31,7 @@ DB_NAME='interview_automation'
 python -m venv venv
 venv\Scripts\activate  # For Windows
 # OR
-source venv/bin/activate  # For Linux/macOS
+source venv/bin/activate  # For Linux/macOS 
 
 <!-- install required packages -->
 pip install -r requirements.txt
